@@ -16,7 +16,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
     "@studydefi/money-legos": "^2.3.2",
-    "apexcharts": "^3.20.0",
+    "apexcharts": "^3.35.0",
     "bnc-notify": "^1.2.4",
     "bnc-onboard": "^1.14.0",
     "date-fns": "^2.14.0",
